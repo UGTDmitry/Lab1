@@ -1,4 +1,8 @@
-﻿using System;
+// Додано просте привітання у консольну програму:
+// Виводиться повідомлення "Hello, User!"
+// Оновлено Program.cs
+
+using System;
 
 class Program
 {
